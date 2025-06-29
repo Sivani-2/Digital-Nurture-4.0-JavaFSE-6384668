@@ -26,5 +26,5 @@ END;
 
 -- Call and execute the procedure
 BEGIN
-    TransferFunds(2000,2200,1000) -- Transfer 1000 from account 2000 to account 2200
+    TransferFunds(1,3,500) -- Transfer 500 from account 1 to account 3
 END;
