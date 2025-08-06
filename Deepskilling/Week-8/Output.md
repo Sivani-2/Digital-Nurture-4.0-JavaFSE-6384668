@@ -176,10 +176,10 @@
 -----
 
 ## Output Images:
-![Output](Outputs of Week-8 execution/Screenshot (164).png)
-![Output](Outputs of Week-8 execution/Screenshot (166).png)
-![Output](Outputs of Week-8 execution/Screenshot (167).png)
-![Output](Outputs of Week-8 execution/Screenshot (168).png)
-![Output](Outputs of Week-8 execution/Screenshot (170).png)
-![Output](Outputs of Week-8 execution/Screenshot (171).png)
-![Output](Outputs of Week-8 execution/Screenshot (172).png)
+![Output](./Outputs%20of%20Week-8%20execution/Screenshot%20(164).png)
+![Output](./Outputs%20of%20Week-8%20execution/Screenshot%20(166).png)
+![Output](./Outputs%20of%20Week-8%20execution/Screenshot%20(167).png)
+![Output](./Outputs%20of%20Week-8%20execution/Screenshot%20(168).png)
+![Output](./Outputs%20of%20Week-8%20execution/Screenshot%20(170).png)
+![Output](./Outputs%20of%20Week-8%20execution/Screenshot%20(171).png)
+![Output](./Outputs%20of%20Week-8%20execution/Screenshot%20(172).png)
